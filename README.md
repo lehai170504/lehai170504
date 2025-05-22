@@ -132,15 +132,25 @@ const hoangHai = {
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hoanghai170504&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+## 🕹️ Đang Làm Gì?
+- 🔍 Tìm hiểu sâu hơn về hệ sinh thái React (React Query, Redux Toolkit)
+- ✍️ Viết blog về kiến thức lập trình tại [Dev.to](https://dev.to/) (nếu có)
+- 👨‍🏫 Hỗ trợ bạn bè học code tại trường
 
-  <h3>💭 Quote của ngày</h3>
-  <i>"Every great developer you know got there by solving problems they were unqualified to solve until they actually did it."</i>
-  
-  <br/><br/>
-  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
-  
-  <br/><br/>
-  <img src="https://raw.githubusercontent.com/hoanghai170504/hoanghai170504/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+## 📚 Blog & Tài Nguyên Yêu Thích
+- [freeCodeCamp](https://www.freecodecamp.org/)
+- [JavaScript.info](https://javascript.info/)
+- [The Odin Project](https://www.theodinproject.com/)
+- [Fireship.io](https://fireship.io/)
+
+## 💡 Lời Truyền Cảm Hứng
+
+> "Stay hungry, stay foolish." – Steve Jobs  
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
+## 🎯 Mục Tiêu Dài Hạn
+- 🚀 Trở thành một Full-stack Developer vững kỹ năng backend
+- 📦 Đóng góp vào một open-source project
+- 📘 Viết một cuốn ebook nhỏ về hành trình học code
+- 👨‍💼 Làm việc tại một công ty công nghệ startup quốc tế
+
