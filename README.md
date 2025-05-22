@@ -134,11 +134,13 @@ const hoangHai = {
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=hoanghai170504&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
-  
-  ### 💭 Quote của ngày
+
+  <h3>💭 Quote của ngày</h3>
   <i>"Every great developer you know got there by solving problems they were unqualified to solve until they actually did it."</i>
   
+  <br/><br/>
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
   
- ![Snake animation](https://raw.githubusercontent.com/hoanghai170504/hoanghai170504/output/github-contribution-grid-snake.svg)
+  <br/><br/>
+  <img src="https://raw.githubusercontent.com/hoanghai170504/hoanghai170504/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
