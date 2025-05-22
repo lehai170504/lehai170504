@@ -112,7 +112,7 @@ const hoangHai = {
   <a href="mailto:haile170504@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/hoanghai170504" target="_blank">
+  <a href="https://github.com/lehai170504" target="_blank">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
@@ -140,5 +140,5 @@ const hoangHai = {
   
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
   
-  ![Snake animation](https://github.com/hoanghai170504/hoanghai170504/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://raw.githubusercontent.com/hoanghai170504/hoanghai170504/output/github-contribution-grid-snake.svg)
 </div>
