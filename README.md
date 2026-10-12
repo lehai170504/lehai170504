@@ -63,8 +63,8 @@ A personal finance application covering transaction management, budgeting, repor
 
 [GitHub](https://github.com/lehai170504)
 
-**LinkedIn:** Add your professional profile URL
+**LinkedIn: [https://www.linkedin.com/in/lehai170504](https://www.linkedin.com/in/lehai170504)
 
-**Email:** Add your professional contact email
+**Email: hoanghaile175@gmail.com
 
 *Building software with a focus on reliability, clarity, and continuous improvement.*
